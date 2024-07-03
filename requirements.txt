@@ -1,0 +1,15 @@
+jupyterlab
+RISE
+jupyterlab_rise
+wandb
+jupyterlab-language-pack-zh-CN
+python-dotenv
+torch
+torchvision
+torchaudio
+numpy
+pandas
+librosa
+matplotlib
+scikit-learn
+tqdm
