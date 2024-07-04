@@ -56,4 +56,4 @@ class AudioDataset(Dataset):
         else:
             feature = signal
         label = self.__get_label__(index)
-        return feature, label
+        return feature, label, index

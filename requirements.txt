@@ -7,7 +7,8 @@ python-dotenv
 torch
 torchvision
 torchaudio
-numpy
+torchmetrics
+numpy<2.0
 pandas
 librosa
 matplotlib
